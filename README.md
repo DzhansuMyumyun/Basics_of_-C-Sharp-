@@ -4,6 +4,7 @@
 This repository is your gateway to mastering the essential elements of C# programming, including inheritance, object-oriented programming (OOP), polymorphism, and dependency injection. 
 
 
+
 🔹 __inheritance__: In C#, inheritance enables a class (derived class) to inherit properties and methods from another class (base class). Syntax-wise, you use a colon (:) after the derived class name followed by the base class name. This promotes code reuse and allows for creating class hierarchies. You can override base class members in the derived class using the override keyword and access base class members using the base keyword.
 
 🔹 __Object-oriented programming (OOP)__ in C# revolves around classes and objects. Here's a concise overview:
