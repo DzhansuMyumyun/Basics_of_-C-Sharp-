@@ -9,6 +9,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\basics_of_-c-sharp-\\intro\\intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|solutionrelative:intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\basics_of_-c-sharp-\\intro\\intro\\dataaccess\\concreets\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\concreets\\coursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\basics_of_-c-sharp-\\intro\\intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|solutionrelative:intro\\dataaccess\\abstracts\\icoursedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,15 +30,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseManager.cs",
-              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Business\\CourseManager.cs",
-              "RelativeDocumentMoniker": "Intro\\Business\\CourseManager.cs",
-              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Business\\CourseManager.cs",
-              "RelativeToolTip": "Intro\\Business\\CourseManager.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAowCwAAAAXAAAA",
+              "DocumentIndex": 2,
+              "Title": "CourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\DataAccess\\Concreets\\CourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Concreets\\CourseDal.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\DataAccess\\Concreets\\CourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Concreets\\CourseDal.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T14:06:28.586Z",
+              "WhenOpened": "2024-04-25T10:39:11.662Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +49,35 @@
               "RelativeDocumentMoniker": "Intro\\Program.cs",
               "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Program.cs",
               "RelativeToolTip": "Intro\\Program.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAswGkAAAABAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T13:33:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseManager.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Business\\CourseManager.cs",
+              "RelativeDocumentMoniker": "Intro\\Business\\CourseManager.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Business\\CourseManager.cs",
+              "RelativeToolTip": "Intro\\Business\\CourseManager.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:06:28.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourseDal.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeDocumentMoniker": "Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "RelativeToolTip": "Intro\\DataAccess\\Abstracts\\ICourseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:00:27.569Z",
               "EditorCaption": ""
             }
           ]
