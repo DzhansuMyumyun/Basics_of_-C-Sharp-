@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\basics_of_-c-sharp-\\intro\\intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|solutionrelative:intro\\business\\coursemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\basics_of_-c-sharp-\\intro\\intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8419A9AB-836D-4197-A7E0-9B32DCF3E25C}|Intro\\Intro.csproj|solutionrelative:intro\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -39,26 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Entities\\Course.cs",
-              "RelativeDocumentMoniker": "Intro\\Entities\\Course.cs",
-              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Entities\\Course.cs",
-              "RelativeToolTip": "Intro\\Entities\\Course.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T13:53:10.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Program.cs",
               "RelativeDocumentMoniker": "Intro\\Program.cs",
               "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Intro\\Intro\\Program.cs",
               "RelativeToolTip": "Intro\\Program.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADcAAAABAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T13:33:45.298Z",
               "EditorCaption": ""
