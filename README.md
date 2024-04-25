@@ -1,5 +1,5 @@
 # Intro C#
-🔍 __Discover C# Fundamentals__: Entities, Classes, Conditions, Loops, and Basics
+🔍 __Discover C# Fundamentals__: Entities, Classes, Conditions, Loops, Inheritance, OOP, Polymorphism and Basics
 
 Welcome to this C# project repository, designed to guide you through the foundational elements of C# programming. Whether you're a beginner seeking to grasp the basics or an experienced developer looking to reinforce your understanding, this repository offers a comprehensive exploration of essential concepts.
 
