@@ -1,7 +1,6 @@
 # Intro C#
-🔍 __Discover C# Fundamentals__: Entities, Classes, Conditions, Loops, Inheritance, OOP, Polymorphism, dependency injection, and Basics
 
-🌟 __Structured Learning__: This repository is your gateway to mastering the essential elements of C# programming, including inheritance, object-oriented programming (OOP), polymorphism, and dependency injection. 
+🌟 __Structured Learning__: This repository is your gateway to mastering the essential elements of C# programming, including entities, classes, conditions, loops, inheritance, object-oriented programming (OOP), polymorphism, and dependency injection. 
 
 
 
