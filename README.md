@@ -9,9 +9,13 @@ This repository is your gateway to mastering the essential elements of C# progra
 🔹 __Object-oriented programming (OOP)__ in C# revolves around classes and objects. Here's a concise overview:
 
 🏗️ __Classes__: Blueprints for objects, defining their properties and behaviors.
+
 🔧 __Objects__: Instances of classes, created using the new keyword.
+
 🔒 __Encapsulation__: Bundling data and methods within a class, controlling access with modifiers like public and private.
+
 🔗 __Inheritance__: Creating new classes (derived) based on existing ones (base), inheriting their properties and behaviors.
+
 🔄 __Polymorphism__: Treating objects of different classes through a common interface, achieved via method overriding and overloading.
 
 These concepts help in creating organized, reusable, and maintainable code in C#.
