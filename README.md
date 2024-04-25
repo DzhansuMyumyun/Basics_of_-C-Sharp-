@@ -14,4 +14,4 @@ __3.Conditions & Loops__: Explore the intricacies of control flow with a detaile
 __4.Back to Basics__: Revisit the fundamental building blocks of programming, covering variables, data types, operators, and functions. Strengthen your coding proficiency by honing your understanding of these core concepts.
 
 
-🌟__Structured Learning__: This repository provides a systematic approach to learning C# fundamentals, including inheritance, OOP, and polymorphism.
+🌟 __Structured Learning__: This repository provides a systematic approach to learning C# fundamentals, including inheritance, OOP, and polymorphism.
