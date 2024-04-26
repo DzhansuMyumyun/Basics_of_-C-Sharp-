@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Exercise1_MaskTraking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6628E47B-7F24-4D8E-9780-353FA746504B}|Workaround\\Workaround.csproj|c:\\users\\dzhan\\onedrive\\documents\\github\\basics_of_-c-sharp-\\exercise1_masktraking\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6628E47B-7F24-4D8E-9780-353FA746504B}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Exercise1_MaskTraking\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\dzhan\\OneDrive\\Documents\\GitHub\\Basics_of_-C-Sharp-\\Exercise1_MaskTraking\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:44:25.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
